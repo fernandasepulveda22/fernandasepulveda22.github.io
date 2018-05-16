@@ -2483,7 +2483,7 @@
 		}
 
 		#header h2, #header h3, #header h4, #header h5, #header h6 {
-			color: #ffffff;
+			color: black;
 		}
 
 		#header h1 {
@@ -2518,12 +2518,13 @@
 			}
 
 		#footer .copyright {
-			color: rgba(255, 255, 255, 0.4);
+			color: #1f1815;
 			font-size: 0.8em;
 			list-style: none;
 			margin: 1em 0 0 0;
 			padding: 0;
 		}
+
 
 			#footer .copyright li {
 				border-left: solid 1px rgba(255, 255, 255, 0.25);
